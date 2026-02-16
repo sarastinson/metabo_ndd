@@ -1,4 +1,4 @@
-# metabo_cmd_ndd
+# Metabo ~ NDD
 * Analysis of genetic overlap between metabolic markers, cardiometabolic and neurodegenerative diseases.
 
 Stinson SE, Shadrin AA, Rahman Z, et al. Distinct metabolic signatures of Alzheimer's and Parkinson's disease revealed through genetic overlap with metabolic markers. medRxiv [Preprint]. 2025 Jul 31:2025.07.31.25332114. doi: https://doi.org/10.1101/2025.07.31.25332114.
