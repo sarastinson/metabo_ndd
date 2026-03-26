@@ -7,3 +7,5 @@ Stinson SE, Shadrin AA, Rahman Z, et al. Distinct metabolic signatures of Alzhei
 Created in BioRender. Stinson, S. (2026) https://BioRender.com/qxml8hx 
 
 <img src="https://github.com/sarastinson/metabo_cmd_ndd/blob/main/img/Fig1_study_design.jpg" alt="Sample Figure" width="700" height="650" />
+
+DOI 10.5281/zenodo.19231033
